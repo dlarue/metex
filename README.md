@@ -8,9 +8,14 @@ Note, that a straight cable is required for the serial connection, not a null-mo
 Python script that reads the values from the meter.
 <img src="https://raw.githubusercontent.com/nerdprojects/metex/main/script.png"/>
 
-## metex-floppy.img
-Raw copy of the original floppy that came with the multimeter.
+## Original Software
+The original software is contained in metex-floppy.img. This is a raw copy of the original floppy that came with the multimeter.
 It contains two scope programms, one for DOS and one for Windows.
+
+I got them both running under macOS with DOSBox with a Windows 3.1 installation.
+You can configure your USB serial device in the DOSBox settings like this:
+
+    serial1=directserial realport:tty.usbserial-AH070BRN
 
 ### Digital Multimeter Scope
 This is the METEX.EXE DOS program in the folder GRAPHIC.
