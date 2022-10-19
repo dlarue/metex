@@ -26,7 +26,3 @@ This is the METEX.EXE DOS program in the folder GRAPHIC.
 This is the METEX.EXE Windows program in the folder SCOPE.
 
 <img src="https://raw.githubusercontent.com/nerdprojects/metex/main/scopeview.png"/>
-
-
-## Manual
-I also have a manual lying around, I can scan it if someones interested.
