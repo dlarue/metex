@@ -6,7 +6,7 @@ Note, that a straight cable is required for the serial connection, not a null-mo
 
 ## metex.py
 Python script that reads the values from the meter.
-<img src="https://raw.githubusercontent.com/nerdprojects/metex-software/main/script.png"/>
+<img src="https://raw.githubusercontent.com/nerdprojects/metex/main/script.png"/>
 
 ## metex-floppy.img
 Raw copy of the original floppy that came with the multimeter.
@@ -15,12 +15,12 @@ It contains two scope programms, one for DOS and one for Windows.
 ### Digital Multimeter Scope
 This is the METEX.EXE DOS program in the folder GRAPHIC.
 
-<img src="https://raw.githubusercontent.com/nerdprojects/metex-software/main/graphic.png"/>
+<img src="https://raw.githubusercontent.com/nerdprojects/metex/main/graphic.png"/>
 
 ### ScopeView
 This is the METEX.EXE Windows program in the folder SCOPE.
 
-<img src="https://raw.githubusercontent.com/nerdprojects/metex-software/main/scopeview.png"/>
+<img src="https://raw.githubusercontent.com/nerdprojects/metex/main/scopeview.png"/>
 
 
 ## Manual
