@@ -1,12 +1,12 @@
 # Metex Digital Multimeter Software
-Scripts and programs that can be used to connect to a Metext M-3850D DMM via RS-232 and periodically read the values of the meter.
-It's quite slow, roughly 1 measurement per second ;-).
+Scripts and programs that can be used to connect to a Metext ME-11, ME-12, and M-3850D DMM via RS-232 and periodically read the values of the meter.
+It's quite slow, roughly 1 measurement per second(adjustable) ;-).
 
 Note, that a straight cable is required for the serial connection, not a null-modem cable.
 
 ## metex.py
 Python script that reads the values from the meter.
-<img src="https://raw.githubusercontent.com/nerdprojects/metex/main/script.png"/>
+<img src="https://raw.githubusercontent.com/dlarue/metex/main/script.png"/>
 
 ## Original Software
 The original software is contained in metex-floppy.img. This is a raw copy of the original floppy that came with the multimeter.
@@ -20,9 +20,9 @@ You can configure your USB serial device in the DOSBox settings like this:
 ### Digital Multimeter Scope
 This is the METEX.EXE DOS program in the folder GRAPHIC.
 
-<img src="https://raw.githubusercontent.com/nerdprojects/metex/main/graphic.png"/>
+<img src="https://raw.githubusercontent.com/dlarue/metex/main/graphic.png"/>
 
 ### ScopeView
 This is the METEX.EXE Windows program in the folder SCOPE.
 
-<img src="https://raw.githubusercontent.com/nerdprojects/metex/main/scopeview.png"/>
+<img src="https://raw.githubusercontent.com/dlarue/metex/main/scopeview.png"/>
